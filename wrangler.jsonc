@@ -1,0 +1,7 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ai-job-interviewer",
+  "main": "vinext/server/fetch-handler",
+  "compatibility_date": "2026-05-22",
+  "compatibility_flags": ["nodejs_compat"]
+}

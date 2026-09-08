@@ -1,0 +1,26 @@
+An AI interviewer that scores your answers. 🎙️
+
+POC #002 — AI Job Interviewer
+
+Choose a role. Answer a question out loud. Review the transcript.
+
+Then see how your answer scores on:
+→ Relevance
+→ Structure
+→ Evidence
+→ Reflection
+
+Each score comes with an explanation, a quote from your answer and a practical improvement. Refine your response, practise again and download the feedback.
+
+Underneath: ElevenLabs for the voice interview + an LLM evaluator with a clear rubric and evidence checks.
+
+Three roles. Nine questions. One small starter project you can make your own.
+
+The source code is free on GitHub:
+aiconceptlab / poc-002-ai-job-interviewer
+
+The local sample needs no keys. Live voice and personalised scoring use vendor API credits. Carousel visuals and scores are illustrative; this is interview practice feedback.
+
+Save this for your next build. Which role would you add first?
+
+#AIConceptLab #AIJobInterviewer #ElevenLabs #VoiceAI #BuildInPublic #OpenSource #InterviewPractice
