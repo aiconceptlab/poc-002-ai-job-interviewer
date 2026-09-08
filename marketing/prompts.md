@@ -1,7 +1,7 @@
 # Generation record
 
 Tool: built-in image generation, with POC #001 cover and knowledge slide as style references.
-Final aspect ratio: 4:5. Generated masters were exported to exact 1080 × 1350 using high-quality resampling.
+Final dimensions: 997 × 1577, matching the user-provided POC #001 reference. The original 4:5 art direction below is retained as generation history.
 
 ## Shared art direction
 Create ONE finished Instagram carousel image, portrait 4:5, ideally 1080 x 1350. This is POC002 in an established AI CONCEPT LAB series. Reference images are STYLE references from POC001, not content to repeat. Match the premium dark editorial design: very large bold crisp white sans-serif headline, precise layout, thin hairline framing/rules at header/footer, small widely spaced uppercase brand text, restrained diagram/UI card compositions. New palette ONLY: near-black plum #17131F background, soft lilac #D6B9FF and warm apricot #FFB581 highlights, creamy white. No navy/mint. No gradients except subtle card shading. No person or avatar: this is a VOICE interviewer. Top small header "AI CONCEPT LAB" left, "POC 002" right. Footer thin rule, "AI JOB INTERVIEWER" left, page number right. Keep all content 65px away from edges. Beautiful professional typographic hierarchy, consistent line spacing and ample negative space; no illegible tiny text. Use ONLY requested copy below, spell perfectly. This is an illustrative product concept visual, not a screenshot.
@@ -26,3 +26,5 @@ Large top headline: "Voice agent." / "LLM evaluator." / "One small build." Middl
 Slides 02–05 were regenerated using the new cover alone as the canvas/style reference, preserving its 1122 × 1402 proportions. Slide 03 was then edited to place the quote card below the scorecard so all four ratings remain visible. Final text and ratings were checked visually.
 
 Slide 05 CTA revision: Built-in image generation edit. Change only the bottom apricot CTA to: Comment “CODE” to get the link. Preserve all other text, layout, typography, colors and icons. Export at 1080 × 1350. Visually checked after editing.
+## Reference-size revision
+Built-in image generation edit. Input 1: the existing POC002 slide, whose wording, artwork and plum/lilac/apricot palette must be preserved. Input 2: the user-provided POC001 cover, used only for its 997 × 1577 canvas and editorial spacing. Adapt each complete slide to this exact tall portrait size. Preserve all text and numbers, keep the header/footer fully visible, avoid overlaps, and preserve the final slide CTA: Comment "CODE" to get the link. Check every resulting image visually and verify all five final dimensions.
